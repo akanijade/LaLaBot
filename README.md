@@ -7,8 +7,35 @@ Application is still using repl.it and UptimeRobot
 
 ## Help Box
 Features a help box of what the bot can do
+`/help`
 
+## Quote
+Generates an inspiring quote from an API
+`/quote`
 
+## Add Cheer Up Quotes
+Add a new cheer up quote to the repl.it db database
+`/new <quote>`
+
+## Delete Cheer Up Quotes
+Delete w cheer up quote to the repl.it db database by their index (starts from 0,1,2,..)
+`/del [index]`
+
+## List Cheer Up Quotes
+List all the cheer up quotes in the repl.it db database
+`/list`
+
+## Testing
+Replies with "ping pong!" if bot is working
+`/test`
+
+## Reponding
+Check if bot will reply if it detects a sad word.
+<br> It will mention whether the mode is on or not. 
+`/responding`
+
+## Slash
+Not implemented yet, can received string and int
 
 ## Updates
 + has slash commands (quote, help, slash)
