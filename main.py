@@ -13,7 +13,9 @@ import asyncio
 
 sad_words = [
     "sad", "depressed", "unhappy", "angry", "miserable", "depressing",
-    "heartbroken", "upset", "bad", "worried", "sorry", "dissapointed"
+    "heartbroken", "upset", " bad ", "worried", "sorry", "dissapointed",
+    "shoot my head", "cut my life into pieces", "kill me", "suicide", 
+    "my dick is small", "i want to die", "suicidal"
 ]
 
 starter_encouragements = [
