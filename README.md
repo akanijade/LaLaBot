@@ -2,36 +2,42 @@
 A discord bot that generates an inspiring quote and replies cheering up quotes when detect sad words. 
 <br> 
 Application is still using repl.it and UptimeRobot
-
-
+<br>
+[Source Code in Repl.it](https://replit.com/@akanijade/Lala-Bot#main.py)
 
 ## Help Box
 Features a help box of what the bot can do
+<br>
 `/help`
 
 ## Quote
 Generates an inspiring quote from an API
+<br>
 `/quote`
 
 ## Add Cheer Up Quotes
 Add a new cheer up quote to the repl.it db database
+<br>
 `/new <quote>`
 
 ## Delete Cheer Up Quotes
 Delete w cheer up quote to the repl.it db database by their index (starts from 0,1,2,..)
+<br>
 `/del [index]`
 
 ## List Cheer Up Quotes
 List all the cheer up quotes in the repl.it db database
+<br>
 `/list`
 
 ## Testing
 Replies with "ping pong!" if bot is working
+<br>
 `/test`
 
 ## Reponding
-Check if bot will reply if it detects a sad word.
-<br> It will mention whether the mode is on or not. 
+Check if bot will reply if it detects a sad word. It will mention whether the mode is on or not. 
+<br>
 `/responding`
 
 ## Slash
