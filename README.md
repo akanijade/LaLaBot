@@ -1,6 +1,7 @@
 # LalaBot
 A discord bot that generates an inspiring quote and replies cheering up quotes when detect sad words. 
-
+<br> 
+Application is still using repl.it and UptimeRobot
 
 
 
@@ -29,3 +30,4 @@ Features a help box of what the bot can do
 - check for disperancies with other packages that hasn't been udpated in lock file
 - change deleting to a better efficient way instead of indexes
 - fix that markoff package no longer has soft unicode
+- request timeout (too many requests to API)
