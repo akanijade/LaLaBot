@@ -1,8 +1,22 @@
 # LalaBot
 A discord bot that generates an inspiring quote and replies cheering up quotes when detect sad words. 
 
+
+
+
 ## Help Box
 Features a help box of what the bot can do
+
+
+
+## Updates
++ has slash commands (quote, help, slash)
++ migrated to discord.py v2
++ fixed the loading images and thumbnails
++ fixed help box
++ added more cheer up quotes and sad words detection
+
+
 
 ### Features to add
 - using sentiment analysis to find negative tones in sentences
@@ -14,3 +28,4 @@ Features a help box of what the bot can do
 - bot verification (if bot ever reaches 100 servers)
 - check for disperancies with other packages that hasn't been udpated in lock file
 - change deleting to a better efficient way instead of indexes
+- fix that markoff package no longer has soft unicode
