@@ -49,6 +49,7 @@ Not implemented yet, can received string and int
 + fixed the loading images and thumbnails
 + fixed help box
 + added more cheer up quotes and sad words detection
++ added "add to server" button on profile page
 
 
 
