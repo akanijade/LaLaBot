@@ -50,6 +50,8 @@ Not implemented yet, can received string and int
 + fixed help box
 + added more cheer up quotes and sad words detection
 + added "add to server" button on profile page
++ request timeout (too many requests to API)
+
 
 
 
@@ -64,4 +66,4 @@ Not implemented yet, can received string and int
 - check for disperancies with other packages that hasn't been udpated in lock file
 - change deleting to a better efficient way instead of indexes
 - fix that markoff package no longer has soft unicode
-- request timeout (too many requests to API)
+- guild/global commands do not delete after reboot (discord.py do not have a func yet to fix this, besides kicking the bot :stuck_out_tongue_closed_eyes:)
