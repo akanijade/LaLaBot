@@ -161,4 +161,11 @@ async def help(interaction: discord.Interaction):
 
 
 keep_alive()
-client.run(os.environ["TOKEN"])
+while __name__ == '__main__':
+  try:
+    keep_alive()
+    client.run(os.environ['TOKEN'])
+  except discord.errors.HTTPException as e:
+    print(e)
+    print("\n\n\nBLOCKED BY RATE LIMITS\nRESTARTING NOW\n\n\n")
+    os.system('kill 1')
