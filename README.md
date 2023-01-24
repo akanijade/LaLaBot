@@ -4,6 +4,7 @@ A discord bot that generates an inspiring quote and replies cheering up quotes w
 Application is still using repl.it and UptimeRobot
 <br>
 [Source Code in Repl.it](https://replit.com/@akanijade/Lala-Bot#main.py)
+[Add Bot to your Server](https://discord.com/api/oauth2/authorize?client_id=722716976186916886&permissions=8&scope=applications.commands%20bot)
 
 ## Help Box
 Features a help box of what the bot can do
